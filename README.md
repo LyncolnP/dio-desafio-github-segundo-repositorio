@@ -1,2 +1,3 @@
-# dio-desafio-github-segundo-repositorio
-Desafio de projeto github
+# Repositório para projetos DIO
+
+- Repositório para projetos desenvolvidos através dos cursos da DIO (Digital Inovation One).
